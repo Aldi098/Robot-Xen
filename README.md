@@ -22,10 +22,8 @@ $ python Robot.py
 ```
 
 ## fungsi
-- [x] Free apn
-- [x] UBAH OPSI S71
-- [x] OPSI KUNCI NEW
-- [x] OPSI TLL
+
+- [√] Membuat SC Spam otomatis
 
 
 > Salam dari Binjai Janggam lupa subscribe 😂
