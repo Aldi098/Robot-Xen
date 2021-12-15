@@ -23,7 +23,7 @@ $ python Robot.py
 
 ## fungsi
 
-- [√] Membuat SC Spam otomatis
+🤖 Membuat SC Spam otomatis
 
 
 > Salam dari Binjai Janggam lupa subscribe 😂
